@@ -1,0 +1,6 @@
+[submodule "third_party/botan"]
+	path = third_party/botan
+	url = https://github.com/deemru/botan.git
+[submodule "third_party/b58"]
+	path = third_party/b58
+	url = https://github.com/deemru/b58.git
